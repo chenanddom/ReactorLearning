@@ -1,3 +1,4 @@
 rootProject.name = 'ReactorLearning'
 include 'reactor-introduction-chapter1'
+include 'reactor-core-features-chapter2'
 
